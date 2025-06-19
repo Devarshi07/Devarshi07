@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devarshi07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Devarshi07&theme=radical&border_radius=10&fire=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devarshi07&theme=radical&border_radius=10&fire=DD2727" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarshi07&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
