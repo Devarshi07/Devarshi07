@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,git,github,kafka,nodejs,mysql,mongodb,pyTorch,sklearn,tensorflow,vscode,docker" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,kafka,nodejs,mysql,mongodb,pytorch,sklearn,tensorflow,vscode,docker" alt="Skill Icons" />
 </p>
 
 ---
