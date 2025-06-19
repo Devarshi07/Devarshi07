@@ -70,13 +70,13 @@
 ### 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/devarshimh">
+  <a href="https://www.linkedin.com/in/devarshi-mahajan-973a80209/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:devarshim2002@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://www.datascienceportfol.io/devarshimahajan">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 </p>
