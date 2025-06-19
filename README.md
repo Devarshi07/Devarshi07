@@ -9,7 +9,7 @@
 ### 🔥 About Me
 
 - 🎓 Graduate Student @ **Northeastern University** | Data Analytics Engineering  
-- 🧠 Exploring Machine Learning, Cloud Systems, and Scalable AI Solutions  
+- 🧠 Exploring Machine Learning, Data Analysis, and Scalable AI Automations  
 - ⚙️ Strong foundation in Python, SQL, and AWS  
 - 📊 I love building **automation pipelines**, **data dashboards**, and **intelligent apps**
 
@@ -25,24 +25,38 @@
 
 ### 🚀 Highlight Projects
 
+#### 🧠 AI Resume Tailoring System  
+> Automatically rewrites resumes based on job descriptions using LLMs and keyword analysis
+> 🛠️ Python • Transformers • LLaMA 3 • LangChain • Semantic Matching  
+<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
+
+---
+
+#### 🛠️ Armature Defect Detection – Stanley Black & Decker
+> Built ML pipeline to detect manufacturing defects in electric motor armatures, reducing inspection time by 60%
+> 🛠️ Python • OpenCV • Scikit-learn • Real-world factory dataset  
+<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
+
+---
+
 #### 🚗 Boscars24 – Car Dealership ERP  
 > 📌 Complete system for buying, selling, and managing car dealership workflows  
 > 💻 Flask | SQL | MongoDB | Python | Dashboards | Diagrams  
-🔗 [GitHub Repo](https://github.com/yourusername/boscars24)
+<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
 
 ---
 
 #### 📄 OCRx – Handwritten Prescription Reader  
 > 📌 Deep learning OCR system to decode doctor handwriting  
-> 🧠 TrOCR | HuggingFace | PyTorch | Custom Dataset  
-🔗 [GitHub Repo](https://github.com/yourusername/ocrx)
+> 🧠 TrOCR | HuggingFace | PyTorch | Custom Dataset
+<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
 
 ---
 
 #### 🏫 ERP System – Student/Faculty Analytics  
 > 📌 Academic KPIs, performance dashboards, and data insights system  
-> 🔐 Role-based access | MongoDB | Python | Streamlit  
-🔗 [GitHub Repo](https://github.com/yourusername/erp-system)
+> 🔐 Role-based access | MongoDB | Python | HTML | CSS  
+<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
 
 ---
 
