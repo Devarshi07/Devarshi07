@@ -49,11 +49,11 @@
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devarshi07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&border_radius=10&fire=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Devarshi07&theme=radical&border_radius=10&fire=DD2727" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarshi07&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
