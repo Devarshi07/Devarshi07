@@ -27,8 +27,12 @@
 
 #### 🧠 AI Resume Tailoring System  
 > Automatically rewrites resumes based on job descriptions using LLMs and keyword analysis
-> 🛠️ Python • Transformers • LLaMA 3 • LangChain • Semantic Matching  
-<!-- 🔗 [GitHub Repo](https://github.com/yourusername/ocrx) -->
+> 🛠️ Python • Transformers • LLaMA 3 • LangChain • Semantic Matching
+
+
+#### 🧠 B2B Customer Call                                                                                                                                                     
+> •	Built an end-to-end GenAI-powered NLP pipeline to analyze B2B customer call transcripts using Python, Hugging Face Transformers, and OpenAI's GPT-4
+> 🛠️ Python • GPT-4 3 DistilBERT • PowerBI
 
 ---
 
