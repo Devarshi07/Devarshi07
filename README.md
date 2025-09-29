@@ -65,6 +65,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/devarshim2002?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
